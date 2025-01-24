@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rutuja Kad</h1>
 <h3 align="center">A passionate Data Analyst from Pune</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutuja-kad&label=Profile%20views&color=0e75b6&style=flat" alt="rutuja-kad" /> </p>
+<p  align="left"> <img src="https://komarev.com/ghpvc/?username=rutuja-kad&label=Profile%20views&color=0e75b6&style=flat" alt="rutuja-kad" /> </p>
 <img  align= "right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYhL0qOLL9gFP91nhosjZFErzEk6pIJFkeWw&s">
 - 🌱 I’m currently learning **Python, SQL, Excel, PowerBI, Tableau, AI, ML, DL, NLP**
 
