@@ -1,3 +1,4 @@
+![logo](https://github.com/RUTUJA-KAD/RUTUJA-KAD-/blob/main/github.jpg)
 <h1 align="center">Hi 👋, I'm Rutuja Kad</h1>
 <h3 align="center">A passionate Data Analyst from Pune</h3>
 <p  align="left"> <img src="https://komarev.com/ghpvc/?username=rutuja-kad&label=Profile%20views&color=0e75b6&style=flat" alt="rutuja-kad" /> </p>
