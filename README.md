@@ -1,4 +1,5 @@
-![logo align ="center"](https://img.freepik.com/free-vector/data-analysis-template-design_23-2150713854.jpg)
+![logo](https://img.freepik.com/premium-vector/wave-motion-information-particles_262424-1241.jpg?semt=ais_hybrid)
+
 <h1 align="center">Hi 👋, I'm Rutuja Kad</h1>
 <h3 align="center">A passionate Data Analyst from Pune</h3>
 <p  align="left"> <img src="https://komarev.com/ghpvc/?username=rutuja-kad&label=Profile%20views&color=0e75b6&style=flat" alt="rutuja-kad" /> </p>
